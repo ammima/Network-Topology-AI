@@ -1,0 +1,5 @@
+{
+  "name": "Network Topology Explorer AI",
+  "description": "An interactive tool for generating and learning about communication network topologies (Star, Mesh, Ring, Bus, Tree) with AI-powered architectural insights.",
+  "requestFramePermissions": []
+}
